@@ -13,7 +13,7 @@ public class AppleMusicJwtManager {
     }
     public var currentToken: String? = nil
     public var exp: Date? = nil
-    static let shared: AppleMusicJwtManager = AppleMusicJwtManager()
+    public static let shared: AppleMusicJwtManager = AppleMusicJwtManager()
     private func reset() {
         currentToken = nil
         exp = nil
@@ -36,4 +36,3 @@ public class AppleMusicJwtManager {
         }
     }
 }
- 
