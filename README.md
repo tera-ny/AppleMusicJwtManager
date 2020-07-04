@@ -1,7 +1,7 @@
 # AppleMusicJwtManager
 
 ### powered by [Swift-JWT](https://github.com/IBM-Swift/Swift-JWT/)
-## Instration
+## Installation
 dependencies: 
 ```package.swift
 .package(url: "https://github.com/g4zeru/AppleMusicJwtManager.git", from: "0.0.1")
