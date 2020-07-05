@@ -4,7 +4,7 @@
 ## Installation
 dependencies: 
 ```package.swift
-.package(url: "https://github.com/g4zeru/AppleMusicJwtManager.git", from: "0.0.1")
+.package(url: "https://github.com/g4zeru/AppleMusicJwtManager.git", from: "0.0.2")
 ```
 targets:
 ```package.swift
